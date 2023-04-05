@@ -1,0 +1,10 @@
+.detail-body h3{
+    margin-top: 15px;
+}
+.detail{
+    background-color: darkgoldenrod;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
